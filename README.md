@@ -5,7 +5,7 @@ Free free to modify the tex file to create your own resume.
 
 Please don't use my resume for anything else without my permission!
 
-# Crdits:
+# Credits:
 Thanks to Claud D. Park's awesome-cv class (https://github.com/posquit0/Awesome-CV) and academicons author James Walsh (https://www.ctan.org/tex-archive/fonts/academicons)!
 
 # What I did:
