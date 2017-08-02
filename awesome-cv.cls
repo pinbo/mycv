@@ -413,7 +413,7 @@
         {%
           \ifbool{isstart}%
             {%
-              \setbool{istart}{false}%
+              \setbool{isstart}{false}%
             }%
             {\acvHeaderSocialSep}%
           \href{mailto:\@email}{\faEnvelope\acvHeaderIconSep\@email}%
@@ -423,7 +423,7 @@
         {%
           \ifbool{isstart}%
             {%
-              \setbool{istart}{false}%
+              \setbool{isstart}{false}%
             }%
             {\acvHeaderSocialSep}%
           \href{http://\@homepage}{\faHome\acvHeaderIconSep\@homepage}%
@@ -433,7 +433,7 @@
         {%
           \ifbool{isstart}%
             {%
-              \setbool{istart}{false}%
+              \setbool{isstart}{false}%
             }%
             {\acvHeaderSocialSep}%
           \href{https://github.com/\@github}{\faGithubSquare\acvHeaderIconSep\@github}%
@@ -443,7 +443,7 @@
         {%
           \ifbool{isstart}%
             {%
-              \setbool{istart}{false} %
+              \setbool{isstart}{false} %
             }%
             {\acvHeaderSocialSep}%
           \href{https://stackoverflow.com/users/\@stackoverflowid}{\faStackOverflow\acvHeaderIconSep\@stackoverflowname}%
@@ -453,7 +453,7 @@
         {%
           \ifbool{isstart}%
             {%
-              \setbool{istart}{false}%
+              \setbool{isstart}{false}%
             }%
             {\acvHeaderSocialSep}%
           \href{https://www.linkedin.com/in/\@linkedin}{\faLinkedinSquare\acvHeaderIconSep\@linkedin}%
@@ -463,7 +463,7 @@
         {%
           \ifbool{isstart}%
             {%
-              \setbool{istart}{false} %
+              \setbool{isstart}{false} %
             }%
             {\acvHeaderSocialSep}%
           \href{https://twitter.com/\@twitter}{\faTwitter\acvHeaderIconSep\@twitter}%
@@ -473,7 +473,7 @@
         {%
           \ifbool{isstart}%
             {%
-              \setbool{istart}{false} %
+              \setbool{isstart}{false} %
             }%
             {\acvHeaderSocialSep}%
           \href{https://www.researchgate.net/profile/\@researchgate}{\aiResearchGateSquare\acvHeaderIconSep\@researchgate}%
@@ -483,7 +483,7 @@
         {%
           \ifbool{isstart}%
             {%
-              \setbool{istart}{false} %
+              \setbool{isstart}{false} %
             }%
             {\acvHeaderSocialSep}%
           \faSkype\acvHeaderIconSep\@skype%

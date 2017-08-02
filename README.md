@@ -15,6 +15,9 @@ I also used academicons for ResearchGate and GoogleScholar icons.
 
 I downloaded the academicons latex, extracted it and put the font in the fonts folder, so I do not need to install the packages and fonts.
 
+# Suggestions
+You can do this in **Overleaf** (https://www.overleaf.com/) to avoid installing several necessary Latex packages.
+
 # For more information:
 
 https://www.ctan.org/tex-archive/fonts/academicons
